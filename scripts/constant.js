@@ -25,8 +25,8 @@ var QUESTIONS = [
         answer: true,
     },
     {
-        text: '上り坂より下り坂のほうが多い',
-        answer: false,
+        text: '福井県は中部地方に属する',
+        answer: true,
     },
     {
         text: 'マクドナルドのロゴマークは、\nアルファベットの「Ｍ」である。',
@@ -40,5 +40,3 @@ var QUESTIONS = [
 
 // シート名
 var SHEET_NAME = 'yesno_quiz';
-
-
